@@ -1,9 +1,6 @@
 File created with git desktop commit
 
-<<<<<<< HEAD
 added second line with desktop kommit
 
 I am very angry
-=======
 added line throught git bash commit 
->>>>>>> 57ce2f1426da31cd723737fa5f9da320ca003c5a
